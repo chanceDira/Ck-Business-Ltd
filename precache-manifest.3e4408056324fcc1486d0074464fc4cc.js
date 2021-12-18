@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68d3832e94103f282f478578ddd6474f",
+    "revision": "c9476bc8d81af0ced70729c8e8437d36",
     "url": "/Ck-Business-Ltd/index.html"
   },
   {
-    "revision": "f53758b9bff3c5f00add",
-    "url": "/Ck-Business-Ltd/static/css/14.5b91116b.chunk.css"
+    "revision": "ab653e6302a189dc4190",
+    "url": "/Ck-Business-Ltd/static/css/13.5b91116b.chunk.css"
   },
   {
-    "revision": "46c1cf4c1515ac765e1d",
+    "revision": "ad33e3aaa378cc12160f",
     "url": "/Ck-Business-Ltd/static/css/main.0849d239.chunk.css"
   },
   {
@@ -28,52 +28,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ck-Business-Ltd/static/js/1.957daa3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "912a31eff7c9cfa50511",
-    "url": "/Ck-Business-Ltd/static/js/10.5a25ad10.chunk.js"
-  },
-  {
-    "revision": "b6632312a3be953da62107b37d979bc6",
-    "url": "/Ck-Business-Ltd/static/js/10.5a25ad10.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "66a652b18858f1e6978d",
-    "url": "/Ck-Business-Ltd/static/js/11.a7c2b601.chunk.js"
+    "revision": "e011de0d15579a115380",
+    "url": "/Ck-Business-Ltd/static/js/10.2c9a567a.chunk.js"
   },
   {
     "revision": "97636669c8193ace9a3b4f1548fc4d0b",
-    "url": "/Ck-Business-Ltd/static/js/11.a7c2b601.chunk.js.LICENSE.txt"
+    "url": "/Ck-Business-Ltd/static/js/10.2c9a567a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb4f428a6f8ee59662fa",
-    "url": "/Ck-Business-Ltd/static/js/12.fb9e5672.chunk.js"
+    "revision": "2c194e9cf2f94be66a5d",
+    "url": "/Ck-Business-Ltd/static/js/11.92d8b8be.chunk.js"
   },
   {
-    "revision": "1fc6541cf35d7e6d383e",
-    "url": "/Ck-Business-Ltd/static/js/13.3333cb7f.chunk.js"
+    "revision": "fb253313c7ffc401db07",
+    "url": "/Ck-Business-Ltd/static/js/12.11ee2d5a.chunk.js"
   },
   {
     "revision": "fe07165234709e61e0cdc05d4056de5c",
-    "url": "/Ck-Business-Ltd/static/js/13.3333cb7f.chunk.js.LICENSE.txt"
+    "url": "/Ck-Business-Ltd/static/js/12.11ee2d5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f53758b9bff3c5f00add",
-    "url": "/Ck-Business-Ltd/static/js/14.1be046d6.chunk.js"
+    "revision": "ab653e6302a189dc4190",
+    "url": "/Ck-Business-Ltd/static/js/13.450e09c0.chunk.js"
   },
   {
     "revision": "43cc2d3f2c6595f2b4cee93cbc46c6bb",
-    "url": "/Ck-Business-Ltd/static/js/14.1be046d6.chunk.js.LICENSE.txt"
+    "url": "/Ck-Business-Ltd/static/js/13.450e09c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "737c36282c2fc1d13ecc",
-    "url": "/Ck-Business-Ltd/static/js/15.938fca2a.chunk.js"
+    "revision": "28cd3a6ee0256d3cfd40",
+    "url": "/Ck-Business-Ltd/static/js/14.3fc4a3a8.chunk.js"
   },
   {
     "revision": "fe07165234709e61e0cdc05d4056de5c",
-    "url": "/Ck-Business-Ltd/static/js/15.938fca2a.chunk.js.LICENSE.txt"
+    "url": "/Ck-Business-Ltd/static/js/14.3fc4a3a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "593af4a7fae604400366",
-    "url": "/Ck-Business-Ltd/static/js/16.6131727a.chunk.js"
+    "revision": "6a7daebac5f6aef396dc",
+    "url": "/Ck-Business-Ltd/static/js/15.aa1a966a.chunk.js"
+  },
+  {
+    "revision": "2bee6c725733a7786638",
+    "url": "/Ck-Business-Ltd/static/js/16.cb8e335c.chunk.js"
   },
   {
     "revision": "3cb49564ee97f95722a2",
@@ -136,20 +132,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ck-Business-Ltd/static/js/5.8be380b5.chunk.js"
   },
   {
-    "revision": "036b417062b9124560c6",
-    "url": "/Ck-Business-Ltd/static/js/6.142f10a0.chunk.js"
+    "revision": "4420c924a3d5e91a5c7c",
+    "url": "/Ck-Business-Ltd/static/js/6.17e1583d.chunk.js"
   },
   {
-    "revision": "525a60cbbea74baa905b",
-    "url": "/Ck-Business-Ltd/static/js/7.c6cac626.chunk.js"
+    "revision": "e0420d03722754b9aac6",
+    "url": "/Ck-Business-Ltd/static/js/9.1585e437.chunk.js"
   },
   {
-    "revision": "46c1cf4c1515ac765e1d",
-    "url": "/Ck-Business-Ltd/static/js/main.3920f8d7.chunk.js"
+    "revision": "b6632312a3be953da62107b37d979bc6",
+    "url": "/Ck-Business-Ltd/static/js/9.1585e437.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00fad4055750bbc9d0be",
-    "url": "/Ck-Business-Ltd/static/js/runtime-main.e0ffbe8e.js"
+    "revision": "ad33e3aaa378cc12160f",
+    "url": "/Ck-Business-Ltd/static/js/main.8ab20992.chunk.js"
+  },
+  {
+    "revision": "4d772b199d51013a39e2",
+    "url": "/Ck-Business-Ltd/static/js/runtime-main.196434ea.js"
   },
   {
     "revision": "d1ba1f6ef5331e5476946efc65aae283",
