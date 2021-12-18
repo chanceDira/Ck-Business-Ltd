@@ -34,8 +34,8 @@ export default [
         routes: [
             {
                 path: '/',
-                redirect: '/landing',
-                // component: lazy(() => import("../components/Home/Home"))
+                // redirect: '/landing',
+                component: lazy(() => import("../components/Home/Home"))
             },
             {
                 path: '/landing',
